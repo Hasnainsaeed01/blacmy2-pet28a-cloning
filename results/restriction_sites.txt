@@ -1,0 +1,4 @@
+Restriction analysis (Biopython Restriction)
+blaCMY-2 (1146 bp): NdeI sites = 0, XhoI sites = 0
+pET-28a(+) (5369 bp): NdeI cuts once (CA^TATG, pos 5129), XhoI cuts once (C^TCGAG, pos 5207)
+Enzyme pair NdeI/XhoI selected: clean in insert, single sites in MCS.

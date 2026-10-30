@@ -1,0 +1,13 @@
+metric,value
+vector_pET28a_bp,5369
+insert_blaCMY2_bp,1146
+pcr_product_bp,1169
+digested_backbone_bp,5291
+digested_insert_bp,1148
+final_construct_bp,6439
+enzymes,NdeI/XhoI
+insert_orientation,forward
+orf_aa_from_NdeI_ATG,381
+orf_matches_native_blaCMY2,True
+NdeI_sites_in_construct,1
+XhoI_sites_in_construct,1
